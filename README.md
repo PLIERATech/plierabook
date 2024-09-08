@@ -27,6 +27,10 @@ layout:
 >
 > ▫ Здесь будущее не просто обитает, оно цветет и процветает в гармонии с традициями и культурой. Империя Плиера – это обитель единства, где разнообразие признается и уважается, а каждый гражданин имеет возможность внести свой вклад в процветание общества.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="dokumentaciya-imperii/" %}
+[dokumentaciya-imperii](dokumentaciya-imperii/)
+{% endcontent-ref %}
+
+{% content-ref url="viki-imperii/" %}
+[viki-imperii](viki-imperii/)
 {% endcontent-ref %}
