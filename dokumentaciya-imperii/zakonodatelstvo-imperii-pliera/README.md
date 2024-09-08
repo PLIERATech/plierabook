@@ -19,22 +19,12 @@ layout:
 
 # ⚖️ Законодательство Империи Плиера
 
-{% hint style="info" %}
-> <mark style="color:red;">Красная ветка 1000</mark>
->
-> <mark style="color:red;">Рейм</mark>
+{% hint style="warning" %}
+Принято Верховным Сенатом Империи Плиера Июль 2023 г
 
-[PRISTORoff](https://app.gitbook.com/u/CYGJ5oHg50dAtkvtVU5rj7lSsCz1 "mention")
+Подписано Императором Плиера
 
->
->
-> Июль 2023 г.
->
-> Правки от 4 февраля 2024 г.
->
-> <mark style="color:purple;">Принято Верховным Сенатом Империи Плиера.</mark>
->
-> <mark style="color:purple;">Подписано Императором Плиера</mark>
+Правки от 4 февраля 2024 г
 {% endhint %}
 
 {% content-ref url="glava-0-vvedenie.md" %}
