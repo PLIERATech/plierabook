@@ -23,3 +23,7 @@ layout:
 {% content-ref url="sistemy-imperii/" %}
 [sistemy-imperii](sistemy-imperii/)
 {% endcontent-ref %}
+
+{% content-ref url="ierarkhiya-v-imperii.md" %}
+[ierarkhiya-v-imperii.md](ierarkhiya-v-imperii.md)
+{% endcontent-ref %}
