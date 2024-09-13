@@ -24,3 +24,4 @@
 * [📖 Вики Империи](viki-imperii/README.md)
   * [🪐 Системы Империи](viki-imperii/sistemy-imperii/README.md)
     * [🗃️ Верховный Сенат Империи Плиера](viki-imperii/sistemy-imperii/verkhovnyi-senat-imperii-pliera.md)
+  * [🧱 Иерархия в Империи](viki-imperii/ierarkhiya-v-imperii.md)
