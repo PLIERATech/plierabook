@@ -23,6 +23,6 @@ layout:
 [systems](systems/)
 {% endcontent-ref %}
 
-{% content-ref url="hierarchy-1.md" %}
-[hierarchy-1.md](hierarchy-1.md)
+{% content-ref url="hierarchy.md" %}
+[hierarchy.md](hierarchy.md)
 {% endcontent-ref %}
