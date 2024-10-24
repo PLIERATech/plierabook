@@ -33,3 +33,11 @@ layout:
 {% content-ref url="wiki/" %}
 [wiki](wiki/)
 {% endcontent-ref %}
+
+{% content-ref url="resource-center.md" %}
+[resource-center.md](resource-center.md)
+{% endcontent-ref %}
+
+{% content-ref url="archive/" %}
+[archive](archive/)
+{% endcontent-ref %}
