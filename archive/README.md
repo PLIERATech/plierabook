@@ -19,3 +19,6 @@ layout:
 
 # 📥 Архив Империи
 
+{% content-ref url="gov-docs.md" %}
+[gov-docs.md](gov-docs.md)
+{% endcontent-ref %}
