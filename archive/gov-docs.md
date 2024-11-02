@@ -67,4 +67,16 @@ layout:
 
 <figure><img src="https://i.imgur.com/BGUCejF.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="01.11.2024" %}
+## Указ Императора №6 от 1 ноября 2024 года
+
+<figure><img src="../.gitbook/assets/Group 1123456961.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="02.11.2024" %}
+## Указ Императора №7 от 2 ноября 2024 года
+
+<figure><img src="../.gitbook/assets/Group 1123456960.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
