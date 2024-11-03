@@ -66,6 +66,10 @@ layout:
 ## Указ Императора №4 от 31 марта 2024 года
 
 <figure><img src="https://i.imgur.com/BGUCejF.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Указ Императора №5 от 31 марта 2024 года
+
+<figure><img src="../.gitbook/assets/Group 1123456801.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="01.11.2024" %}
