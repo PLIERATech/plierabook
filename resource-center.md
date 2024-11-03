@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: .gitbook/assets/Group 1123456910.png
 coverY: 0
 layout:
