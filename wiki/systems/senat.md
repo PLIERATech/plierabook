@@ -31,7 +31,7 @@ layout:
 
 ***
 
-<figure><img src="../../.gitbook/assets/Group 1123456895.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1123456895 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Функционирование
 
