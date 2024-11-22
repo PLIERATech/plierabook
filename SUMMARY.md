@@ -21,6 +21,7 @@
   * [💼 Правящая партия](wiki/party.md)
   * [🪐 Системы Империи](wiki/systems/README.md)
     * [🗃️ Верховный Сенат Империи Плиера](wiki/systems/senat.md)
+    * [☄️ Имперская служка безопасности (ИСБ)](wiki/systems/senat-1.md)
   * [🧱 Иерархия в Империи](wiki/hierarchy.md)
 * [🗳️ Ресурсный центр](resource-center.md)
 * [📥 Архив Империи](archive/README.md)
