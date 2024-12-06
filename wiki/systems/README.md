@@ -26,3 +26,35 @@ layout:
 {% content-ref url="senat.md" %}
 [senat.md](senat.md)
 {% endcontent-ref %}
+
+{% content-ref url="iss.md" %}
+[iss.md](iss.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-snabzheniya-imperii-pliera-minsnab.md" %}
+[ministerstvo-snabzheniya-imperii-pliera-minsnab.md](ministerstvo-snabzheniya-imperii-pliera-minsnab.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md" %}
+[ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md](ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-ekonomiki-imperii-pliera-minek.md" %}
+[ministerstvo-ekonomiki-imperii-pliera-minek.md](ministerstvo-ekonomiki-imperii-pliera-minek.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md" %}
+[ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md](ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-inostrannykh-del-imperii-pliera-mid.md" %}
+[ministerstvo-inostrannykh-del-imperii-pliera-mid.md](ministerstvo-inostrannykh-del-imperii-pliera-mid.md)
+{% endcontent-ref %}
+
+{% content-ref url="ministerstvo-yusticii-imperii-pliera-minyust.md" %}
+[ministerstvo-yusticii-imperii-pliera-minyust.md](ministerstvo-yusticii-imperii-pliera-minyust.md)
+{% endcontent-ref %}
+
+{% content-ref url="sud-imperii-pliera.md" %}
+[sud-imperii-pliera.md](sud-imperii-pliera.md)
+{% endcontent-ref %}
