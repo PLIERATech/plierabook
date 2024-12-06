@@ -19,6 +19,8 @@ layout:
 
 # 📦 Правила склада
 
+<figure><img src="../.gitbook/assets/Group 1123456971.png" alt="" width="375"><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 **• Управляющий складом** - Akvin69
 
