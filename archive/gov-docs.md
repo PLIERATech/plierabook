@@ -72,15 +72,21 @@ layout:
 <figure><img src="../.gitbook/assets/Group 11234568cecdscddcdcdc1.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="01.11.2024" %}
+{% tab title="01.11.24" %}
 ## Указ Императора №6 от 1 ноября 2024 года
 
 <figure><img src="../.gitbook/assets/Group 1123456961.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="02.11.2024" %}
+{% tab title="02.11.24" %}
 ## Указ Императора №7 от 2 ноября 2024 года
 
 <figure><img src="../.gitbook/assets/Group 1123456960.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="22.12.24" %}
+## Приказ №1 от 22 декабря 2024 года
+
+<figure><img src="../.gitbook/assets/Group_1123456972.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
