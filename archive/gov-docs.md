@@ -69,7 +69,7 @@ layout:
 
 ## Указ Императора №5 от 31 марта 2024 года
 
-<figure><img src="../.gitbook/assets/Group 1123456801.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 11234568cecdscddcdcdc1.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="01.11.2024" %}
@@ -81,6 +81,6 @@ layout:
 {% tab title="02.11.2024" %}
 ## Указ Императора №7 от 2 ноября 2024 года
 
-<figure><img src="../.gitbook/assets/Group 1123456960.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 1123456960.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
