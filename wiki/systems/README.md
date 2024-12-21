@@ -51,8 +51,8 @@ layout:
 [ministerstvo-inostrannykh-del-imperii-pliera-mid.md](ministerstvo-inostrannykh-del-imperii-pliera-mid.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-yusticii-imperii-pliera-minyust.md" %}
-[ministerstvo-yusticii-imperii-pliera-minyust.md](ministerstvo-yusticii-imperii-pliera-minyust.md)
+{% content-ref url="ministerstvo-yusticii-imperii-pliera-minyust/" %}
+[ministerstvo-yusticii-imperii-pliera-minyust](ministerstvo-yusticii-imperii-pliera-minyust/)
 {% endcontent-ref %}
 
 {% content-ref url="sud-imperii-pliera.md" %}
