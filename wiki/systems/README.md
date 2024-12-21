@@ -31,28 +31,28 @@ layout:
 [iss.md](iss.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-snabzheniya-imperii-pliera-minsnab.md" %}
-[ministerstvo-snabzheniya-imperii-pliera-minsnab.md](ministerstvo-snabzheniya-imperii-pliera-minsnab.md)
+{% content-ref url="minsnab.md" %}
+[minsnab.md](minsnab.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md" %}
-[ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md](ministerstvo-gradostroitelstva-i-infrastruktury-imperii-pliera-mingradinfra.md)
+{% content-ref url="mingradinfra.md" %}
+[mingradinfra.md](mingradinfra.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-ekonomiki-imperii-pliera-minek.md" %}
-[ministerstvo-ekonomiki-imperii-pliera-minek.md](ministerstvo-ekonomiki-imperii-pliera-minek.md)
+{% content-ref url="minec.md" %}
+[minec.md](minec.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md" %}
-[ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md](ministerstvo-prosvesheniya-i-propagandy-imperii-pliera-minkult.md)
+{% content-ref url="minmedia.md" %}
+[minmedia.md](minmedia.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-inostrannykh-del-imperii-pliera-mid.md" %}
-[ministerstvo-inostrannykh-del-imperii-pliera-mid.md](ministerstvo-inostrannykh-del-imperii-pliera-mid.md)
+{% content-ref url="mid.md" %}
+[mid.md](mid.md)
 {% endcontent-ref %}
 
-{% content-ref url="ministerstvo-yusticii-imperii-pliera-minyust/" %}
-[ministerstvo-yusticii-imperii-pliera-minyust](ministerstvo-yusticii-imperii-pliera-minyust/)
+{% content-ref url="minust/" %}
+[minust](minust/)
 {% endcontent-ref %}
 
 {% content-ref url="sud-imperii-pliera.md" %}
