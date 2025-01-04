@@ -89,4 +89,18 @@ layout:
 
 <figure><img src="../.gitbook/assets/Group_1123456972.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="01.01.25" %}
+## Указ Императора №8 от 1 января 2025 года
+
+<figure><img src="../.gitbook/assets/Group 1123457040.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Указ Императора №9 от 1 января 2025 года
+
+<figure><img src="../.gitbook/assets/Group 1123457039.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Постановление Верховного Сената №3 от 1 января 2025 года
+
+<figure><img src="../.gitbook/assets/Group 1123457038.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
