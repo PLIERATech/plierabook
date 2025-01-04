@@ -21,7 +21,7 @@ layout:
 
 {% tabs %}
 {% tab title="02.03.24" %}
-## Постановление Верховного Сената №1 от 2 марта 2024 года
+## Постановление Верховного Сената № 1 от 2 марта 2024 года
 
 <figure><img src="https://i.imgur.com/1KEay78.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
@@ -99,7 +99,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/Group 1123457039.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Постановление Верховного Сената №3 от 1 января 2025 года
+## Постановление Верха Правления №3 от 1 января 2025 года
 
 <figure><img src="../.gitbook/assets/Group 1123457038.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
