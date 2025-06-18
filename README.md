@@ -1,6 +1,5 @@
 ---
-icon: hand-wave
-cover: .gitbook/assets/Group 1123456907.png
+cover: .gitbook/assets/Group 1123457204.png
 coverY: 0
 layout:
   cover:
