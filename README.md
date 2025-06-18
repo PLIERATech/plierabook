@@ -1,5 +1,7 @@
 ---
-cover: .gitbook/assets/Group 1123457208.png
+cover:
+  light: .gitbook/assets/Group 1123457208.png
+  dark: .gitbook/assets/Group 1123457204.png
 coverY: 0
 layout:
   cover:
