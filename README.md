@@ -3,20 +3,6 @@ cover:
   light: .gitbook/assets/Group 1123457208.png
   dark: .gitbook/assets/Group 1123457204.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # ⭐ Введение

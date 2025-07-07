@@ -1,23 +1,9 @@
 ---
 cover: ../../.gitbook/assets/Group 1123456967.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
-# ☄️ Имперская служба безопасности (ИСБ)
+# ☄️ Имперская служба безопасности Плиера (ИСБ)
 
 <figure><img src="../../.gitbook/assets/Group 1123456969 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -68,9 +54,11 @@ layout:
 * **Вооружённые силы Империи Плиера (ВСИП)**: обеспечивает выполнение наземных операций.
 * **Флот Империи Плиера (ФИП)**: отвечает за космические операции и стратегическую оборону.
 * **Разведка и контрразведка**: занимается сбором информации, предотвращением заговоров и шпионажа.
-* **Идеологический контроль**: поддерживает единство и лояльность граждан к Империи.\\
+* **Идеологический контроль**: поддерживает единство и лояльность граждан к Империи.
 
-<figure><img src="../../.gitbook/assets/Иерархия ИСБ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1123457249 (1).png" alt=""><figcaption><p>Иерархия должностей ИСБ</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Group 1123457252.png" alt=""><figcaption><p>Форма сотрудников ИСБ</p></figcaption></figure>
 
 ***
 

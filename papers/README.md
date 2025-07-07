@@ -3,20 +3,6 @@ cover:
   light: ../.gitbook/assets/Group 1123457209.png
   dark: ../.gitbook/assets/Group 1123457207.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # 📄 Документация Империи

@@ -1,20 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Group 1123456979.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 🎭 Министерство просвещения и пропаганды Империи Плиера (МинКульт)
