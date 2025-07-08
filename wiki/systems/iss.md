@@ -56,9 +56,9 @@ coverY: 0
 * **Разведка и контрразведка**: занимается сбором информации, предотвращением заговоров и шпионажа.
 * **Идеологический контроль**: поддерживает единство и лояльность граждан к Империи.
 
-<figure><img src="../../.gitbook/assets/Group 1123457249 (1).png" alt=""><figcaption><p>Иерархия должностей ИСБ</p></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Group 1123457249.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Group 11234572500.png" alt=""></picture><figcaption><p>Иерархия должностей ИСБ</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Group 1123457252.png" alt=""><figcaption><p>Форма сотрудников ИСБ</p></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Group 1123457252.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Group 11234572522.png" alt=""></picture><figcaption><p>Форма сотрудников ИСБ</p></figcaption></figure>
 
 ***
 
